@@ -89,7 +89,7 @@ nav .fa{
     display:none;
 }
 
-@media(max-width: 900px) {
+@media(max-width: 100px) {
     .text-box h1{
     font-size: 20px;
 }
@@ -138,5 +138,6 @@ p{
     line-height: 22px;
     padding:10px;
 }
+
 
 
