@@ -22,7 +22,7 @@ nav{
     align-items: center;
 }
 nav img{
-    width: 100px;
+    width: 150px;
 }
 .nav-links{
     flex:1;
@@ -101,4 +101,5 @@ nav img{
     text-align: left;
     z-index: 2;
 }
+
 }
